@@ -11,9 +11,11 @@ Not long ago I was looking for a simple method to convert PowerPoint PPTX Files 
 3. Install dependencies `pip install -r dependencies.txt`
 - Or manually install the dependencies:
 - Win32Com `pip install pywin32`
-Note if you recieve the below an upgrade to pip is required `pip install --upgrade pip`
+
+Note if you recieve the following error message.
 > Could not find a version that satisfies the requirement pywin32>=223 (from pypiwin32) (from versions:)
 No matching distribution found for pywin32>=223 (from pypiwin32)
+An upgrade to pip is required `pip install --upgrade pip`
 
 ### Configuration
 
