@@ -14,7 +14,8 @@ Not long ago I was looking for a simple method to convert PowerPoint PPTX Files 
 
 Note if you recieve the following error message.
 > Could not find a version that satisfies the requirement pywin32>=223 (from pypiwin32) (from versions:)
-No matching distribution found for pywin32>=223 (from pypiwin32)
+No matching distribution found for pywin32>=223 (from pypiwin32).
+
 An upgrade to pip is required `pip install --upgrade pip`
 
 ### Configuration
